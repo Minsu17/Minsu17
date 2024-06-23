@@ -34,8 +34,9 @@ Here are some ideas to get you started:
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Minsu17&bg_color=60,d327c5,4ca999&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu17&layout=compact&bg_color=60,d327c5,4ca999&title_color=000000&text_color=000000"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;">
+        <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=sms2358" width="42%" height="100%"/>
+        <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Minsu17&show_icons=true&theme=holi" width = "49%" height="130%" />
+    </div> 
     </div>
     
