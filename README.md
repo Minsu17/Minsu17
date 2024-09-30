@@ -1,6 +1,12 @@
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{Minsu17}?pet-id=1" width="1000" height="120"/>
+  <img
+    src="https://render.gitanimals.org/lines/Minsu17?pet-id=628556892739291086"
+    width="600"
+    height="120"
+  />
 </a>
+  
 
 ## Profile
 
